@@ -1,0 +1,65 @@
+EVENT BOOKING SYSTEM - SALES REPORT
+Generated on: October 25, 2025 at 22:30:42
+================================================================
+
+================================================================
+                  SALES & ANALYTICS REPORT
+================================================================
+Generated: Oct 25, 2025 22:30:41
+
+EVENT PERFORMANCE:
+----------------------------------------------------------------
+Event: rockstar [Completed]
+  - Tickets Sold: 20 / 200
+  - Occupancy Rate: 10.0%
+  - Revenue: $20000.00
+
+Event: harrismams [Completed]
+  - Tickets Sold: 20 / 300
+  - Occupancy Rate: 6.7%
+  - Revenue: $3180.00
+
+Event: rock star harris [Completed]
+  - Tickets Sold: 0 / 200
+  - Occupancy Rate: 0.0%
+  - Revenue: $0.00
+
+Event: rock on stage [Completed]
+  - Tickets Sold: 35 / 100
+  - Occupancy Rate: 35.0%
+  - Revenue: $35000.00
+
+Event: AzhagiyaSinger [Completed]
+  - Tickets Sold: 0 / 250
+  - Occupancy Rate: 0.0%
+  - Revenue: $0.00
+
+Event: AzhagiyaSinger [Event Day]
+  - Tickets Sold: 0 / 300
+  - Occupancy Rate: 0.0%
+  - Revenue: $0.00
+
+Event: AI revolution [Upcoming]
+  - Tickets Sold: 0 / 250
+  - Occupancy Rate: 0.0%
+  - Revenue: $0.00
+
+================================================================
+BOOKING STATISTICS:
+----------------------------------------------------------------
+Total Bookings: 16
+Active Bookings: 7
+Cancelled Bookings: 9
+
+================================================================
+FINANCIAL SUMMARY:
+----------------------------------------------------------------
+Total Tickets Sold: 75
+Total Revenue: $58180.00
+Average Revenue per Event: $8311.43
+================================================================
+
+
+================================================================
+End of Report
+================================================================

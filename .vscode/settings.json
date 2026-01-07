@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "EventBookingSystem\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "EventBookingSystem\\lib\\activation-1.1.1.jar",
+        "EventBookingSystem\\lib\\bson-5.2.1.jar",
+        "EventBookingSystem\\lib\\javax.mail-1.6.2.jar",
+        "EventBookingSystem\\lib\\mongodb-driver-core-5.2.1.jar",
+        "EventBookingSystem\\lib\\mongodb-driver-sync-5.2.1.jar",
+        "EventBookingSystem\\lib\\slf4j-api-2.0.13.jar"
+    ]
+}
