@@ -1,8 +1,8 @@
 package com.eventbooking.services;
 
 import com.eventbooking.models.Event; // Added import for Event model
-import javax.mail.*;
-import javax.mail.internet.*;
+import jakarta.mail.*;
+import jakarta.mail.internet.*;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Properties;
